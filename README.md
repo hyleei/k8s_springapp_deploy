@@ -266,6 +266,7 @@
                             │  (Browser/API Call) │◄───────────────────────┘
                             └─────────────────────┘
 ```
+![image](https://github.com/user-attachments/assets/2d7c1629-854c-4b77-9644-d244d7e8977e)
 
 ### 구성 요소 설명:
 
